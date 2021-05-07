@@ -9,6 +9,7 @@ Program służący do wyznaczenia parametrów regulatora PID za pomocą algorytm
 - [Uruchamianie programu](#uruchamianie-programu)
 - [Korzystanie z aplikacji](#korzystanie-z-aplikacji)
 - [Status projektu](#status-projektu)
+- [Screeny projektu](#screeny-projektu)
 
 ## Informacje ogólne
 Program wyznacza parametry regulatora PID dla obiektu drugiego rzędu wykorzystując algorytm genetyczny. Umożliwia wybór dwóch metod selekcji, metody koła ruletki oraz metody rangowej.
@@ -28,4 +29,6 @@ Przed uruchomieniem algorytmu należy wpisać dane wybranego obiektu, ustawić c
 ## Status projektu
 Zakończony.
 
+## Screeny projektu
+![AlgorytmGenetyczny](https://user-images.githubusercontent.com/82177599/117482395-9c5f1700-af64-11eb-8eac-504b359bbf1f.png)
 
